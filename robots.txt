@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rowflamp.github.io/sitemap.html.gz
+Sitemap: https://rowflamp.github.io/app/sitemap.html.gz
+Sitemap: https://rowflamp.github.io/assets/sitemap.html.gz
+Sitemap: https://rowflamp.github.io/css/sitemap.html.gz
+Sitemap: https://rowflamp.github.io/includes/sitemap.html.gz
+Sitemap: https://rowflamp.github.io/item/sitemap.html.gz
+Sitemap: https://rowflamp.github.io/src/sitemap.html.gz
